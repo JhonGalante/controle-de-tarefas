@@ -1,0 +1,71 @@
+﻿@model IList<Usuario>
+<div class="modal fade" id="modalDetalheTarefaHistico" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="form-group">
+                    <input disabled type="text" id="detalhe-titulo-historico" class="form-control field-borderless titulo-modal" placeholder="Titulo" />
+                </div>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Fechar" id="close-historico">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-descricao-historico">Descrição</label>
+                                        <textarea disabled class="form-control" rows="5" id="detalhe-descricao-historico"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="partial-lista-tarefas-historico" class="row"></div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-responsavel-historico">Responsável</label>
+                                        <select disabled class="form-control" id="detalhe-responsavel-historico">
+                                            @foreach (var responsavel in Model)
+                                            {
+                                                <option value="@responsavel.Id">@responsavel.Nome</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-urgencia-historico">Nível de Urgencia</label>
+                                        <select disabled class="form-control" id="detalhe-urgencia-historico">
+                                            <option value="0">Baixo</option>
+                                            <option value="1">Médio</option>
+                                            <option value="2">Alto</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-prazo-historico">Prazo</label>
+                                        <input disabled type="date" class="form-control" id="detalhe-prazo-historico" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="btn-fechar-detalhe-historico" data-dismiss="modal">Fechar</button>
+                <button class="btn btn-danger" id="btn-apagar-detalhe-historico" data-dismiss="modal">Apagar</button>
+            </div>
+        </div>
+    </div>
+</div>

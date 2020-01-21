@@ -1,0 +1,80 @@
+﻿@model IndexViewModel
+<div class="modal fade" id="modalDetalheTarefa" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="form-group">
+                    <input type="text" id="detalhe-titulo" class="form-control field-borderless titulo-modal" placeholder="Titulo" />
+                </div>
+                <div class="close">
+                    <a id="btn-finish" class="menu-item" data-dismiss="modal">
+                        <img src="~/img/start.png" class="icon-menu" />
+                    </a>
+                    <a id="btn-cancel" class="menu-item" data-dismiss="modal">
+                        <img src="~/img/close.png" class="icon-menu" />
+                    </a>
+                    <a id="btn-delete" class="menu-item" data-dismiss="modal">
+                        <img src="~/img/bin.png" class="icon-menu" />
+                    </a>
+                </div>
+
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-descricao">Descrição</label>
+                                        <textarea class="form-control" rows="5" id="detalhe-descricao"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="partial-lista-tarefas" class="row"></div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-responsavel">Responsável</label>
+                                        <select class="form-control" id="detalhe-responsavel">
+                                            @foreach (var responsavel in Model.Responsaveis)
+                                            {
+                                                <option value="@responsavel.Id">@responsavel.Nome</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-urgencia">Nível de Urgencia</label>
+                                        <select class="form-control" id="detalhe-urgencia">
+                                            <option value="0">Baixo</option>
+                                            <option value="1">Médio</option>
+                                            <option value="2">Alto</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="detalhe-prazo">Prazo</label>
+                                        <input type="date" class="form-control" id="detalhe-prazo" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="btn-fechar-detalhe" data-dismiss="modal">Fechar</button>
+                <button class="btn btn-danger" id="btn-atualizar" data-dismiss="modal">Atualizar</button>
+            </div>
+        </div>
+    </div>
+</div>

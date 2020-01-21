@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "../Shared/Usuario/_Layout";
+}
+
+@model IndexViewModel
+
+    <div class="container">
+
+        <div id="tabela-tarefas-usuario-view">
+            @{await Html.RenderPartialAsync("_TabelaTarefas", Model.TarefasUsuario);}
+        </div>
+
+        <div id="modal-detalhe-usuario-tarefa">
+            @{await Html.RenderPartialAsync("../Shared/Usuario/_ModalDetalheTarefa", Model.Responsaveis);}
+        </div>
+    </div>
+
+
+

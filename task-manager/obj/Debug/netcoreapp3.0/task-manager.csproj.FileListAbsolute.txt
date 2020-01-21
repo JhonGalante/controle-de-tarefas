@@ -1,0 +1,356 @@
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.exe
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.deps.json
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.runtimeconfig.json
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.runtimeconfig.dev.json
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.pdb
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.Views.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.Views.pdb
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\staticwebassets\task-manager.StaticWebAssets.Manifest.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\staticwebassets\task-manager.StaticWebAssets.xml
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorAssemblyInfo.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorAssemblyInfo.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.AssemblyInfoInputs.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.AssemblyInfo.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.TagHelpers.input.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.TagHelpers.output.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorCoreGenerate.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Historico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Usuario\Historico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Usuario\Index.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Secure\Login.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_Layout.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_ModalDetalheTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_ModalDetalheTarefaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LayoutError.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LayoutHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ListaAtividades.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ListaAtividadesHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalAdicionarTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalDetalheTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalDetalheTarefaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TabelaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TabelaTarefas.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorTargetAssemblyInfo.cache
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorTargetAssemblyInfo.cs
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.Views.pdb
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.csproj.CopyComplete
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.dll
+C:\Users\Global Corporate TI\Desktop\controle-de-tarefa-global-master\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.pdb
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.exe
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.deps.json
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.runtimeconfig.json
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.runtimeconfig.dev.json
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.pdb
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.Views.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\task-manager.Views.pdb
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.csprojAssemblyReference.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\staticwebassets\task-manager.StaticWebAssets.Manifest.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\staticwebassets\task-manager.StaticWebAssets.xml
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorAssemblyInfo.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorAssemblyInfo.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.AssemblyInfoInputs.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.AssemblyInfo.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.TagHelpers.input.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.TagHelpers.output.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorCoreGenerate.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Historico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Usuario\Historico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Home\Usuario\Index.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Secure\Login.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_Layout.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_ModalDetalheTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_ModalDetalheTarefaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LayoutError.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LayoutHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ListaAtividades.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ListaAtividadesHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalAdicionarTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalDetalheTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalDetalheTarefaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TabelaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TabelaTarefas.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorTargetAssemblyInfo.cache
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.RazorTargetAssemblyInfo.cs
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.Views.pdb
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.csproj.CopyComplete
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.dll
+C:\Users\Global Corporate TI\Desktop\Nova pasta\task-manager\controle-de-tarefa-global\obj\Debug\netcoreapp3.0\task-manager.pdb
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.csprojAssemblyReference.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\staticwebassets\task-manager.StaticWebAssets.Manifest.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\staticwebassets\task-manager.StaticWebAssets.xml
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.RazorAssemblyInfo.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.RazorAssemblyInfo.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.AssemblyInfoInputs.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.AssemblyInfo.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.TagHelpers.input.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.TagHelpers.output.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.RazorCoreGenerate.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Home\Historico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Home\Usuario\Historico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Home\Usuario\Index.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Secure\Login.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_Layout.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_ModalDetalheTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Usuario\_ModalDetalheTarefaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LayoutError.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LayoutHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ListaAtividades.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ListaAtividadesHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalAdicionarTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalDetalheTarefa.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ModalDetalheTarefaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TabelaHistorico.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TabelaTarefas.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.RazorTargetAssemblyInfo.cache
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.RazorTargetAssemblyInfo.cs
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.pdb
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.exe
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.deps.json
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.runtimeconfig.json
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.runtimeconfig.dev.json
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.pdb
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.Views.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\task-manager.Views.pdb
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.Views.pdb
+C:\Users\Global Corporate TI\source\repos\task-manager\task-manager\obj\Debug\netcoreapp3.0\task-manager.csproj.CopyComplete

@@ -1,0 +1,17 @@
+﻿@model IList<Atividade>
+
+<div class="col-sm-12">
+    <label for="campo-atividade">Atividades</label>
+
+    <ul id="lista-atividades" class="list-group">
+        @foreach(var atividade in Model)
+        {
+            <li data-id="@atividade.Id" class="list-group-item">
+                <p class="descricao-atividade">@atividade.Descricao</p>
+                <p style="width: 50%;" class="data-publicacao">@atividade.dataHoraPublicacao</p>
+            </li>
+        }
+    </ul>
+</div>
+
+<script src="~/js/lista.js"></script>

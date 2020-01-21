@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Histórico";
+    Layout = "_LayoutHistorico";
+}
+
+@model IndexViewModel
+
+    <div class="container">
+
+        <div id="tabela-historico-view">
+            @{await Html.RenderPartialAsync("_TabelaHistorico", Model.TarefasUsuario);}
+        </div>
+
+        <div id="modal-detalhe-tarefa-historico">
+            @{await Html.RenderPartialAsync("./Usuario/_ModalDetalheTarefaHistorico", Model.Responsaveis);}
+        </div>
+
+    </div>
+
+
+

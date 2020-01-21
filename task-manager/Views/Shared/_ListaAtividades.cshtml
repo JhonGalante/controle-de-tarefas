@@ -1,0 +1,22 @@
+﻿@model IList<Atividade>
+
+<div class="col-sm-12">
+    <label for="campo-atividade">Atividades</label>
+    <div class="form-group linha">
+        <input type="text" class="form-control" id="campo-atividade" placeholder="Digite uma nova atividade!" />
+        <button class="btn btn-danger" id="btn-enviar-atividade">Enviar</button>
+    </div>
+
+    <ul id="lista-atividades" class="list-group">
+        @foreach(var atividade in Model.Reverse())
+        {
+            <li data-id="@atividade.Id" class="list-group-item">
+                <p class="descricao-atividade">@atividade.Descricao</p>
+                <p style="width: 50%;" class="data-publicacao">@atividade.dataHoraPublicacao</p>
+                <span style="float:right; position: absolute; top: 35%; right: 20px;" class="apagar-atividade">&times;</span>
+            </li>
+        }
+    </ul>
+</div>
+
+<script src="~/js/lista.js"></script>

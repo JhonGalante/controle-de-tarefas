@@ -1,0 +1,38 @@
+﻿@model IList<Tarefa>
+
+<table id="tabtarefas" class="table table-hover table-dark tabela-tarefas" style="width:100%">
+    <thead>
+        <tr>
+            <th>Tarefa</th>
+            <th>Descrição</th>
+            <th>Urgência</th>
+            <th>Prazo</th>
+            <th>Responsável</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tarefa in Model)
+        {
+            <tr data-id="@tarefa.Id">
+                <td>@tarefa.Titulo</td>
+                <td>@tarefa.Descricao</td>
+                @switch (tarefa.NivelUrgencia)
+                {
+                    case 0:
+                        <td value="0">Baixo</td>
+                        break;
+                    case 1:
+                        <td value="1">Médio</td>
+                        break;
+                    case 2:
+                        <td value="2">Alto</td>
+                        break;
+                }
+
+                <td>@tarefa.Prazo.Date.ToString("dd/MM/yyyy")</td>
+                <td data-id="@tarefa.Responsavel.Id">@tarefa.Responsavel.Nome</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="~/js/site.js"></script>

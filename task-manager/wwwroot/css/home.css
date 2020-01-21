@@ -1,0 +1,121 @@
+﻿#tabtarefas_wrapper {
+    margin-top: 20px;
+}
+.tabela-tarefas > thead {
+    background-color: rgba(218, 59, 59, 1);
+}
+.tabela-tarefas > thead {
+    border-color: rgba(218, 59, 59, 1) !important;
+}
+    .tabela-tarefas > thead > tr > th {
+        color: black;
+        font-weight: 400;
+        border-color: rgba(218, 59, 59, 1) !important;
+    }
+
+
+
+/*Modal*/
+.field-borderless {
+    border: 0;    
+}
+.field-borderless:focus {
+    outline: 0 !important;
+    -webkit-appearance: none !important;
+    box-shadow: none !important;
+    border-bottom: 1px solid #0091C8;
+}
+#add-tarefa:hover{
+    cursor: pointer;
+}
+.titulo-modal {
+    width: 100% !important;
+    font-size: 30px;
+    color: rgba(218, 59, 59, 1) !important;
+    margin-bottom: -20px;
+}
+
+tr{
+    cursor:pointer;
+}
+
+.apagar-atividade:hover{
+    cursor: pointer;
+}
+
+.data-publicacao{
+    font-size: 12px;
+    font-style:italic;
+}
+
+.descricao-atividade{
+    width: 90%;
+}
+
+.empty-field{
+    border: 1px solid red;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.logo > img{
+    height: 80px;
+    width: 80px;
+}
+.logo > h4{
+    color: rgba(218, 59, 59, 1);
+}
+
+.footer{
+    background-color: black;
+}
+
+.footer span {
+    color: rgba(218, 59, 59, 1);
+}
+
+.usuario-logado > p {
+    font-size: 20px;
+    color: rgba(218, 59, 59, 1);
+}
+
+.nav-item {
+    margin-top: 10px !important;
+}
+
+.icon-logo{
+    height: 35px;
+    width: 35px;
+}
+
+.paginate_button.next .page-link {
+    background-color: #212529 !important;
+    border-color: #212529 !important;
+    color: #FFFF;
+}
+
+.paginate_button.previous .page-link {
+    background-color: #212529 !important;
+    border-color: #212529 !important;
+    color: #FFFF;
+}
+
+.page-item .page-link {
+    background-color: #212529 !important;
+    border-color: #212529 !important;
+    color: #FFFF;
+}
+
+.page-item.active .page-link {
+    background-color: rgba(218, 59, 59, 1) !important;
+    border-color: rgba(218, 59, 59, 1) !important;
+}
+
+.icon-menu {
+    height: 25px;
+    width: 25px;
+}
